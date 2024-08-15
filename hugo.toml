@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "Maria Shaporeva"
-  headline = ""
+  headline = "A site landing page built with Hugo"
   image = "img/author.jpeg"  # path relative to static directory
 
   links = [
