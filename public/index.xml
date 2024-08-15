@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria Shaporeva</title>
-    <link>//localhost:49223/</link>
+    <link>//localhost:49766/</link>
     <description>Recent content on Maria Shaporeva</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>_I like emojis_ :v::star:</copyright>
-    <atom:link href="//localhost:49223/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:49766/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
